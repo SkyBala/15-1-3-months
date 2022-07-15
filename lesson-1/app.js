@@ -116,7 +116,7 @@
 
 // parantList(people.John);
 
-for (let key in people) {
-  parentList(people[key]);
-}
+// for (let key in people) {
+//   parentList(people[key]);
+// }
 
